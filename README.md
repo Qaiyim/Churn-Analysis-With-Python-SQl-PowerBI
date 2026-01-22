@@ -66,6 +66,7 @@ Tools & Technologies
 •	Certain internet service types and lack of value-added services correlate with churn
 •	Random Forest model successfully predicts churn-prone customers, enabling early intervention
 •	Feature importance analysis highlights tenure, contract type, monthly charges, and services as key churn drivers
+![image alt](https://github.com/Qaiyim/Churn-Analysis-With-Python-SQl-PowerBI/blob/main/PBI%202.png)
 
 ## Business Recommendations
 1.	Target Early-Tenure Customers
